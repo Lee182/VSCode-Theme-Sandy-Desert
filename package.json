@@ -2,7 +2,8 @@
   "name": "sandy-desert",
   "displayName": "Sandy Desert",
   "description": "A sandy plain theme inspired by solarized light and a time when people would write scrolls on animal skins and hide them in the desert",
-  "version": "0.1.0",
+  "icon": "icon.png",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.32.0"
   },

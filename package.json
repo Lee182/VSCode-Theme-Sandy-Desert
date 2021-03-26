@@ -3,7 +3,7 @@
   "displayName": "Sandy Desert",
   "description": "A sandy plain theme inspired by solarized light and a time when people would write scrolls on animal skins and hide them in the desert",
   "icon": "icon.png",
-  "version": "0.1.3",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.32.0"
   },
@@ -13,7 +13,22 @@
       {
         "label": "Sandy Desert",
         "uiTheme": "vs",
-        "path": "./themes/Sandy Desert-color-theme.json"
+        "path": "./themes/SandyDesert.json"
+      },
+      {
+        "label": "Sandy Desert (Dimmed)",
+        "uiTheme": "vs",
+        "path": "./themes/SandyDesertDimmed.json"
+      },
+      {
+        "label": "Sandy Desert Night ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SandyDesertNight.json"
+      },
+      {
+        "label": "Sandy Desert Night (Dimmed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SandyDesertNightDimmed.json"
       }
     ]
   },
